@@ -12,9 +12,9 @@
 
 // Remote DataBase Connection
 
-$dsn     = 'mysql:host=remotemysql.com;dbname=CHjV1Jdy9x';
-$user    = 'CHjV1Jdy9x';
-$pass    = 'RlHAIvl9oz';
+$dsn     = 'mysql:host=remotemysql.com;dbname=1AjbgjU9oI';
+$user    = '1AjbgjU9oI';
+$pass    = 'LX3ZmaUy43';
 $option  = array(
     PDO::MYSQL_ATTR_INIT_COMMAND =>'SET NAMES UTF8'
 );
