@@ -13,7 +13,7 @@
 // Remote DataBase Connection
 
 $dsn     = 'mysql:host=remotemysql.com;dbname=CHjV1Jdy9x';
-$user    =' wy9RUewTNF';
+$user    ='wy9RUewTNF';
 $pass    = 'RlHAIvl9oz';
 $option  = array(
     PDO::MYSQL_ATTR_INIT_COMMAND =>'SET NAMES UTF8'
