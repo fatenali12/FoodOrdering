@@ -17,6 +17,7 @@ include "includes/functions/functions.php";
 include 'admin/connect.php'; 
 
 
+
 // Check if The User Coming from Http Post Request
 
 
@@ -64,7 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         } else {
 
-            echo "There Is No Such User";
+            echo "<div class='the-errors msg error'>There Is No Such User</div>";
 
         }
 

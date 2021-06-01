@@ -2,14 +2,15 @@
 
 
     ob_start();
-    session_start();
+   session_start();
 
   
     $pageTitle = "Ordering";
 
   
     
-   if (isset($_SESSION['admin'])){
+//    if (isset($_SESSION['admin'])){
+    
 
         include 'admin/init.php';
 
@@ -236,11 +237,11 @@
 
         }
 
-    } else {
+    // } else {
        
-        header('Location: signin.php');
-        exit();
-    }
+    //     header('Location: signin.php');
+    //     exit();
+    // }
     ?>
 
 
