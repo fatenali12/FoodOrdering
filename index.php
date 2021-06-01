@@ -126,7 +126,7 @@
                 <p>I can't say enough about your Luxrest Restaurant! The reasonable prices, and great atmosphere are only topped by the delicious food. Fantastic local restaurant serving fresh, delicious.</p>
 
                 <div class="person-info">
-                    <img src="layout/images/person-1.jpg" alt="">
+                    <img src="layout/Images/person-1.jpg" alt="">
                     <h4>Mark Matt</h4>
                     <p>Sales Director</p>
                 </div>
@@ -139,7 +139,7 @@
                 <p>I can't say enough about your Luxrest Restaurant! The reasonable prices, and great atmosphere are only topped by the delicious food. Fantastic local restaurant serving fresh,delicious.</p>
 
                 <div class="person-info">
-                    <img src="layout/images/person-2.jpg" alt="">
+                    <img src="layout/Images/person-2.jpg" alt="">
                     <h4>Brian Walters</h4>
                     <p>Assistant Manager</p>
                 </div>
@@ -153,7 +153,7 @@
                 <p>I can't say enough about your Luxrest Restaurant! The reasonable prices, and great atmosphere are only topped by the delicious food. Fantastic local restaurant serving fresh,delicious.</p>
 
                 <div class="person-info">
-                    <img src="layout/images/person-3.jpg" alt="">
+                    <img src="layout/Images/person-3.jpg" alt="">
                     <h4>Alexandra Filmore</h4>
                     <p>Sales Director</p>
                 </div>
@@ -169,7 +169,7 @@
                 <p>All of the items I tried were absolutely delicious. I surprised my husband and brought home a sampling of a number of menu items. I will come back again for the food .</p>
 
                 <div class="person-info">
-                    <img src="layout/images/person-4.jpg" alt="">
+                    <img src="layout/Images/person-4.jpg" alt="">
                     <h4>Alexandra Filmore</h4>
                     <p>Sales Director</p>
                 </div>
@@ -184,7 +184,7 @@
                 <p>All of the items I tried were absolutely delicious. I surprised my husband and brought home a sampling of a number of menu items. I will come back again for the food .</p>
 
                 <div class="person-info">
-                    <img src="layout/images/person-5.jpg" alt="">
+                    <img src="layout/Images/person-5.jpg" alt="">
                     <h4>Alexandra Filmore</h4>
                     <p>Sales Director</p>
                 </div>
@@ -196,7 +196,7 @@
                 <p>All of the items I tried were absolutely delicious. I surprised my husband and brought home a sampling of a number of menu items. I will come back again for the food .</p>
 
                 <div class="person-info">
-                    <img src="layout/images/person-1.jpg" alt="">
+                    <img src="layout/Images/person-1.jpg" alt="">
                     <h4>Alexandra Filmore</h4>
                     <p>Sales Director</p>
                 </div>
