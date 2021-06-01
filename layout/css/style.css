@@ -378,7 +378,7 @@ body {
 
 .section-top {
     min-height: 100vh;
-    background-image: url(../images/backGImge.jpg);
+    background-image: url(../layout/Images/backGImge.jpg);
     background-size: cover;
     overflow: hidden;
 }
