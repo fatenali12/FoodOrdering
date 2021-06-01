@@ -369,6 +369,7 @@
                                     type="file"  
                                     name="mealimg" 
                                     placeholder="Enter The Image Url" 
+                                    required
                                     >
                             </div>
                                 
