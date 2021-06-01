@@ -1,9 +1,20 @@
 <?php
 
+// Development Connection
 
-$dsn     = 'mysql:host=localhost;dbname=food';
-$user    ='root';
-$pass    = '';
+// $dsn     = 'mysql:host=localhost;dbname=food';
+// $user    ='root';
+// $pass    = '';
+// $option  = array(
+//     PDO::MYSQL_ATTR_INIT_COMMAND =>'SET NAMES UTF8'
+// );
+
+
+// Remote DataBase Connection
+
+$dsn     = 'mysql:host=remotemysql.com;dbname=wy9RUewTNF';
+$user    =' wy9RUewTNF';
+$pass    = 'n4NzrUGidb';
 $option  = array(
     PDO::MYSQL_ATTR_INIT_COMMAND =>'SET NAMES UTF8'
 );
